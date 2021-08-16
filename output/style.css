@@ -1,0 +1,33 @@
+.team-heading {
+  background-color: powderblue;
+  color: #ffffff;
+  font-family: cursive;
+}
+.team-space {
+  flex-wrap: wrap;
+
+}
+
+.team-card {
+  margin: 20px;
+  max-width: 400px;
+  height: 250px;
+  background-color:white;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 8px 8px 16px black;
+  border-radius: 20px;
+}
+
+.list-group-item {
+  color: pink;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+}
+.card-header{
+  color:pink;
+  font-weight: bold;
+  font-size: larger;
+  size: 50px;
+} 
